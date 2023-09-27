@@ -51,5 +51,5 @@ let cities = ["pune"," mumbai","banglore","kolkata"]
 console.log(cities[0])
 
 for(let i = 0 ; i < cities.length ; i++){
-        console.log("welcome "+ cities[i])
+    console.log("welcome "+ cities[i])
 }
